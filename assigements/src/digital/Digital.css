@@ -1,0 +1,11 @@
+.market {
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 4px 4px 10px gray;
+    margin-top:20px;
+}
+.market h1{
+    font-size: 1.4rem;
+}
